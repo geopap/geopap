@@ -23,6 +23,23 @@ The projects below are working proof of how I approach that. Each one starts fro
 
 ---
 
+### ⭐ Featured: [AI Use-Case Intake](https://github.com/geopap/ai-use-case-intake)
+
+**The front door for enterprise AI: one intake that decides what is worth doing, what the EU AI Act and GDPR require, and who has to approve it, before anyone builds or buys.**
+
+[**▶ Live demo**](https://geopap.github.io/ai-use-case-intake/) · [Method](https://github.com/geopap/ai-use-case-intake/blob/main/docs/METHOD.md)
+
+[![AI Use-Case Intake](https://raw.githubusercontent.com/geopap/ai-use-case-intake/main/docs/screenshots/register.png)](https://geopap.github.io/ai-use-case-intake/)
+
+- **Decide what to do:** value, cost, payback and feasibility for every AI idea, with a clear *pursue now / invest to enable / quick experiment / park* call.
+- **Explainable risk classification:** prohibited practices, Annex III high-risk areas, the Art. 6(3) exceptions and transparency duties, with the article cited for every result. Provider and deployer duties are kept apart.
+- **Proportionate governance:** a three-day fast track for minimal-risk tools, enhanced review for high-risk systems, and prohibited practices stopped at intake. Thirty controls attach automatically and are tracked to completion.
+- **AI that helps, safely:** optional Claude pre-fill that only suggests answers. Every suggestion must be confirmed, the rules set the risk tier, and the model never estimates money.
+
+**Together, the two projects cover the AI life cycle:** *decide what to build* (Intake) → *govern it through delivery and prove the value* (Portfolio Office). Approved use cases move from one to the other.
+
+---
+
 ### More work
 
 | Project | What it shows |
