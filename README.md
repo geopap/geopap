@@ -6,6 +6,8 @@ I'm a digital leader working where strategy, operating models and AI meet. My fo
 
 The projects below are working proof of how I approach that. Each one starts from a business problem and keeps people in charge of decisions. Each one shows its controls openly.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-George%20Papadongonas-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgepapadongonas/)
+
 ---
 
 ### ⭐ Featured: [AI Portfolio Office](https://github.com/geopap/ai-portfolio-office)
