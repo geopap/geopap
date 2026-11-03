@@ -36,7 +36,24 @@ The projects below are working proof of how I approach that. Each one starts fro
 - **Proportionate governance:** a three-day fast track for minimal-risk tools, enhanced review for high-risk systems, and prohibited practices stopped at intake. Thirty controls attach automatically and are tracked to completion.
 - **AI that helps, safely:** optional Claude pre-fill that only suggests answers. Every suggestion must be confirmed, the rules set the risk tier, and the model never estimates money.
 
-**Together, the two projects cover the AI life cycle:** *decide what to build* (Intake) → *govern it through delivery and prove the value* (Portfolio Office). Approved use cases move from one to the other.
+---
+
+### ⭐ Featured: [AI Eval Workbench](https://github.com/geopap/ai-eval-workbench)
+
+**From AI failures to fixes, release decisions and audit-ready evidence. Evals that product teams use and AI governance can trust.**
+
+[**▶ Live demo**](https://geopap.github.io/ai-eval-workbench/) · [Method](https://github.com/geopap/ai-eval-workbench/blob/main/docs/METHOD.md)
+
+[![AI Eval Workbench](https://raw.githubusercontent.com/geopap/ai-eval-workbench/main/docs/screenshots/failures.png)](https://geopap.github.io/ai-eval-workbench/)
+
+- **Error analysis that leads somewhere:** blind human review, with notes grouped into failure modes, ranked by risk and sent to **Jira** with examples and a definition of done.
+- **Judges you can trust:** each AI judge is calibrated against human labels before its scores count, and the demo shows exactly why one isn't trusted.
+- **A real release decision:** a gate that recommends ship or no-ship, with must-never criteria and a named person's sign-off.
+- **Evidence for governance:** an EU AI Act Art. 15 evidence pack, generated from the same work.
+
+---
+
+**Together, the three projects cover the AI life cycle:** *decide what to build* (Intake) → *prove it works and is safe* (Eval Workbench) → *govern delivery and prove the value* (Portfolio Office).
 
 ---
 
