@@ -11,6 +11,8 @@ I'm a product leader with an engineering background: 14 years in product managem
 - Relaunched a consumer cooking app as freemium with a premium subscription: **6× monthly active users, 4× revenue**
 - Scaled a global e-commerce business from **low seven to high eight figures** in annual revenue across markets
 - Built and led a **product and engineering organisation of 15+** (product managers, developers, UX, data, digital marketing)
+- Led **multiple agile engineering teams** that built and ran business-critical e-commerce platforms across markets, together with internal developers, external development partners and IT agencies
+- Owned **budgets, supplier contracts, SLAs and service management** for those platforms, from release planning to stable operations
 - Introduced an **AI-native delivery model**: an agentic development team with independent review and release discipline
 
 ---
