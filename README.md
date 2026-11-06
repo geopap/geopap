@@ -17,9 +17,9 @@ I'm a product leader with an engineering background: 14 years in product managem
 
 ---
 
-### Featured: the AI life cycle, in three working products
+### Featured: the AI life cycle, in four working projects
 
-The projects below are working proof of how I approach AI. Each one starts from a business problem and keeps people in charge of decisions. Each one shows its controls openly. Together they cover the life cycle: *decide what to build* → *prove it works and is safe* → *govern delivery and prove the value*.
+The projects below are working proof of how I approach AI. Each one starts from a business problem and keeps people in charge of decisions. Each one shows its controls openly. Together they cover the life cycle: *decide what to build* → *build it with AI-native delivery* → *prove it works and is safe* → *govern delivery and prove the value*.
 
 #### 1 · [AI Use-Case Intake](https://github.com/geopap/ai-use-case-intake): decide what to build
 
@@ -35,7 +35,21 @@ The projects below are working proof of how I approach AI. Each one starts from 
 
 <sub>**Product lens:** discovery and prioritisation, business cases. **Technology lens:** demand management, build vs buy, vendor choice.</sub>
 
-#### 2 · [AI Eval Workbench](https://github.com/geopap/ai-eval-workbench): prove it works and is safe
+#### 2 · [Claude Code SDLC](https://github.com/geopap/claude-code-sdlc): build it with AI-native delivery
+
+**An operating model for AI-native software delivery: 17 specialised agents, an 8-round pipeline and 8 mandatory quality gates, refined over 100+ production sprints.**
+
+[**Pipeline**](https://github.com/geopap/claude-code-sdlc#the-pipeline) · [Quality gates](https://github.com/geopap/claude-code-sdlc#8-quality-gates) · [For engineering leaders](https://github.com/geopap/claude-code-sdlc#for-engineering-leaders)
+
+[![Claude Code SDLC](https://raw.githubusercontent.com/geopap/claude-code-sdlc/main/docs/pipeline.png)](https://github.com/geopap/claude-code-sdlc)
+
+- **Separation of duties:** agents that write code never approve it. Every change gets independent code, security and QA review.
+- **Quality gates that cannot be skipped:** Definition of Ready before build, tests and UAT before done, a release checklist with rollback plans before close.
+- **People stay accountable:** humans own scope, UAT sign-off, merges, database migrations and releases. The agents prepare; a person decides.
+
+<sub>**Product lens:** discovery to release in one flow, with KPIs defined before build. **Technology lens:** SDLC design, code review, release management, cost-aware model routing.</sub>
+
+#### 3 · [AI Eval Workbench](https://github.com/geopap/ai-eval-workbench): prove it works and is safe
 
 **From AI failures to fixes, release decisions and audit-ready evidence. Evals that product teams use and AI governance can trust.**
 
@@ -49,7 +63,7 @@ The projects below are working proof of how I approach AI. Each one starts from 
 
 <sub>**Product lens:** product-owned quality specs, release decisions. **Technology lens:** quality gates, regression testing, release management, tool-neutral integration.</sub>
 
-#### 3 · [AI Portfolio Office](https://github.com/geopap/ai-portfolio-office): govern delivery and prove the value
+#### 4 · [AI Portfolio Office](https://github.com/geopap/ai-portfolio-office): govern delivery and prove the value
 
 **An AI-enabled Strategic Portfolio Office: value-driven portfolio governance, a human-in-the-loop PMO agent, and AI controls mapped to the EU AI Act, ISO/IEC 42001 and NIST AI RMF.**
 
@@ -65,12 +79,11 @@ The projects below are working proof of how I approach AI. Each one starts from 
 
 ---
 
-### How I run AI-native delivery
+### More AI-native delivery
 
 | Project | What it shows |
 |---|---|
-| [**Claude Code SDLC**](https://github.com/geopap/claude-code-sdlc) | The operating model behind my AI-native delivery: 17 specialised agents, an 8-round pipeline and 8 mandatory quality gates, refined over 100+ sprints. Independent review, security review and release discipline, applied to an AI development team. |
-| [**TravelPlanner**](https://github.com/geopap/travelplanner) | A full-stack product delivered with that model: Next.js, strict TypeScript, Postgres with row-level security, migrations with rollbacks, and automated tests. |
+| [**TravelPlanner**](https://github.com/geopap/travelplanner) | A full-stack product delivered with the Claude Code SDLC model: Next.js, strict TypeScript, Postgres with row-level security, migrations with rollbacks, and automated tests. |
 | [**Shopify CRO Agent Swarm**](https://github.com/geopap/shopify-cro-swarm) | AI tied directly to revenue. Agents find funnel leaks, rank hypotheses, propose changes as pull requests and verify results statistically, with a human approving every change. |
 
 ---
