@@ -17,11 +17,26 @@ I'm a product leader with an engineering background: 14 years in product managem
 
 ---
 
-### Featured: the AI life cycle, in four working projects
+### Featured: product and AI life cycle, in five working projects
 
-The projects below are working proof of how I approach AI. Each one starts from a business problem and keeps people in charge of decisions. Each one shows its controls openly. Together they cover the life cycle: *decide what to build* → *build it with AI-native delivery* → *prove it works and is safe* → *govern delivery and prove the value*.
+The projects below are working proof of how I approach AI. Each one starts from a business problem and keeps people in charge of decisions. Each one shows its controls openly. Together they cover the life cycle: *set the product strategy* → *decide which AI use cases to pursue* → *build with AI-native delivery* → *prove it works and is safe* → *govern delivery and prove the value*.
 
-#### 1 · [AI Use-Case Intake](https://github.com/geopap/ai-use-case-intake): decide what to build
+#### 1 · [Product Strategy Cockpit](https://github.com/geopap/product-strategy-cockpit): set the product strategy
+
+**From company strategy to an outcome roadmap, with the evidence behind every bet: a driver tree, AI-assisted discovery, bets ranked by expected value, experiments with guardrails, and a quarterly strategy review.**
+
+[**▶ Live demo**](https://geopap.github.io/product-strategy-cockpit/) · [Method](https://github.com/geopap/product-strategy-cockpit/blob/main/docs/METHOD.md)
+
+[![Product Strategy Cockpit](https://raw.githubusercontent.com/geopap/product-strategy-cockpit/main/docs/screenshots/overview.png)](https://geopap.github.io/product-strategy-cockpit/)
+
+- **Strategy you can calculate:** company goals → north star → driver tree, with a what-if simulator for subscription and partner revenue, retention and the north star.
+- **Discovery with evidence:** AI groups customer feedback into themes and must cite it; a person confirms each theme before it can carry a bet.
+- **Honest decisions:** product policy as code ("the first saving is always free"), guardrails that stop a commercial win that costs trust, and experiment readouts that catch broken tests.
+- **A plan that adds up:** an outcome roadmap within capacity that shows how much of the target it really covers, and a signed quarterly review.
+
+<sub>**Product lens:** strategy into roadmap, OKRs, discovery, freemium and monetisation, experimentation. **Technology lens:** capacity planning, dependencies on platform initiatives, hand-over to portfolio governance.</sub>
+
+#### 2 · [AI Use-Case Intake](https://github.com/geopap/ai-use-case-intake): decide which AI use cases to pursue
 
 **The front door for enterprise AI: one intake that decides what is worth doing, what the EU AI Act and GDPR require, and who has to approve it, before anyone builds or buys.**
 
@@ -35,7 +50,7 @@ The projects below are working proof of how I approach AI. Each one starts from 
 
 <sub>**Product lens:** discovery and prioritisation, business cases. **Technology lens:** demand management, build vs buy, vendor choice.</sub>
 
-#### 2 · [Claude Code SDLC](https://github.com/geopap/claude-code-sdlc): build it with AI-native delivery
+#### 3 · [Claude Code SDLC](https://github.com/geopap/claude-code-sdlc): build it with AI-native delivery
 
 **An operating model for AI-native software delivery: 17 specialised agents, an 8-round pipeline and 8 mandatory quality gates, refined over 100+ production sprints.**
 
@@ -49,7 +64,7 @@ The projects below are working proof of how I approach AI. Each one starts from 
 
 <sub>**Product lens:** discovery to release in one flow, with KPIs defined before build. **Technology lens:** SDLC design, code review, release management, cost-aware model routing.</sub>
 
-#### 3 · [AI Eval Workbench](https://github.com/geopap/ai-eval-workbench): prove it works and is safe
+#### 4 · [AI Eval Workbench](https://github.com/geopap/ai-eval-workbench): prove it works and is safe
 
 **From AI failures to fixes, release decisions and audit-ready evidence. Evals that product teams use and AI governance can trust.**
 
@@ -63,7 +78,7 @@ The projects below are working proof of how I approach AI. Each one starts from 
 
 <sub>**Product lens:** product-owned quality specs, release decisions. **Technology lens:** quality gates, regression testing, release management, tool-neutral integration.</sub>
 
-#### 4 · [AI Portfolio Office](https://github.com/geopap/ai-portfolio-office): govern delivery and prove the value
+#### 5 · [AI Portfolio Office](https://github.com/geopap/ai-portfolio-office): govern delivery and prove the value
 
 **An AI-enabled Strategic Portfolio Office: value-driven portfolio governance, a human-in-the-loop PMO agent, and AI controls mapped to the EU AI Act, ISO/IEC 42001 and NIST AI RMF.**
 
