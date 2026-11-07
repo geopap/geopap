@@ -19,7 +19,7 @@ I'm a product leader with an engineering background: 14 years in product managem
 
 ### Featured: product and AI life cycle, in five working projects
 
-The projects below are working proof of how I approach AI. Each one starts from a business problem and keeps people in charge of decisions. Each one shows its controls openly. Together they cover the life cycle: *set the product strategy* → *decide which AI use cases to pursue* → *build with AI-native delivery* → *prove it works and is safe* → *govern delivery and prove the value*.
+The projects below are working proof of how I approach AI. Each one starts from a business problem and keeps people in charge of decisions. Each one shows its controls openly. Together they cover the life cycle: *set the product strategy* → *decide which AI use cases to pursue* → *fund, govern and track the value* → *build with AI-native delivery* → *prove it works and is safe*.
 
 #### 1 · [Product Strategy Cockpit](https://github.com/geopap/product-strategy-cockpit): set the product strategy
 
@@ -50,7 +50,21 @@ The projects below are working proof of how I approach AI. Each one starts from 
 
 <sub>**Product lens:** discovery and prioritisation, business cases. **Technology lens:** demand management, build vs buy, vendor choice.</sub>
 
-#### 3 · [Claude Code SDLC](https://github.com/geopap/claude-code-sdlc): build it with AI-native delivery
+#### 3 · [AI Portfolio Office](https://github.com/geopap/ai-portfolio-office): fund, govern and prove the value
+
+**An AI-enabled Strategic Portfolio Office: value-driven portfolio governance, a human-in-the-loop PMO agent, and AI controls mapped to the EU AI Act, ISO/IEC 42001 and NIST AI RMF.**
+
+[**▶ Live demo**](https://geopap.github.io/ai-portfolio-office/) · [Operating model](https://github.com/geopap/ai-portfolio-office/blob/main/docs/FRAMEWORK.md) · [AI governance](https://github.com/geopap/ai-portfolio-office/blob/main/docs/AI-GOVERNANCE.md)
+
+[![AI Portfolio Office](https://raw.githubusercontent.com/geopap/ai-portfolio-office/main/docs/screenshots/overview.png)](https://geopap.github.io/ai-portfolio-office/)
+
+- **Value:** every initiative carries a P&L story, from approved business case to confirmed EBITDA, with clear **SCALE / CONTINUE / REVISE / STOP** calls.
+- **AI where it removes work:** an agent runs the monthly collect → review → consolidate loop. It catches what people miss, such as a status reported green while finance actuals show a 19% overrun.
+- **Governance by design:** a named human signs off before anything circulates, the audit trail is tamper-evident, and the AI only ever sees pseudonymised data.
+
+<sub>**Product lens:** portfolio and roadmap governance, outcome KPIs. **Technology lens:** PMO and delivery operating model, budget control.</sub>
+
+#### 4 · [Claude Code SDLC](https://github.com/geopap/claude-code-sdlc): build it with AI-native delivery
 
 **An operating model for AI-native software delivery: 17 specialised agents, an 8-round pipeline and 8 mandatory quality gates, refined over 100+ production sprints.**
 
@@ -64,7 +78,7 @@ The projects below are working proof of how I approach AI. Each one starts from 
 
 <sub>**Product lens:** discovery to release in one flow, with KPIs defined before build. **Technology lens:** SDLC design, code review, release management, cost-aware model routing.</sub>
 
-#### 4 · [AI Eval Workbench](https://github.com/geopap/ai-eval-workbench): prove it works and is safe
+#### 5 · [AI Eval Workbench](https://github.com/geopap/ai-eval-workbench): prove it works and is safe
 
 **From AI failures to fixes, release decisions and audit-ready evidence. Evals that product teams use and AI governance can trust.**
 
@@ -77,20 +91,6 @@ The projects below are working proof of how I approach AI. Each one starts from 
 - **A real release decision:** a gate that recommends ship or no-ship, with must-never criteria, a named person's sign-off and an EU AI Act Art. 15 evidence pack.
 
 <sub>**Product lens:** product-owned quality specs, release decisions. **Technology lens:** quality gates, regression testing, release management, tool-neutral integration.</sub>
-
-#### 5 · [AI Portfolio Office](https://github.com/geopap/ai-portfolio-office): govern delivery and prove the value
-
-**An AI-enabled Strategic Portfolio Office: value-driven portfolio governance, a human-in-the-loop PMO agent, and AI controls mapped to the EU AI Act, ISO/IEC 42001 and NIST AI RMF.**
-
-[**▶ Live demo**](https://geopap.github.io/ai-portfolio-office/) · [Operating model](https://github.com/geopap/ai-portfolio-office/blob/main/docs/FRAMEWORK.md) · [AI governance](https://github.com/geopap/ai-portfolio-office/blob/main/docs/AI-GOVERNANCE.md)
-
-[![AI Portfolio Office](https://raw.githubusercontent.com/geopap/ai-portfolio-office/main/docs/screenshots/overview.png)](https://geopap.github.io/ai-portfolio-office/)
-
-- **Value:** every initiative carries a P&L story, from approved business case to confirmed EBITDA, with clear **SCALE / CONTINUE / REVISE / STOP** calls.
-- **AI where it removes work:** an agent runs the monthly collect → review → consolidate loop. It catches what people miss, such as a status reported green while finance actuals show a 19% overrun.
-- **Governance by design:** a named human signs off before anything circulates, the audit trail is tamper-evident, and the AI only ever sees pseudonymised data.
-
-<sub>**Product lens:** portfolio and roadmap governance, outcome KPIs. **Technology lens:** PMO and delivery operating model, budget control.</sub>
 
 ---
 
