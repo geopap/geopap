@@ -4,7 +4,7 @@
 
 I'm a product leader with an engineering background: 14 years in product management, eight of them leading product organisations for consumer brands, their apps and e-commerce. I started as a developer and have led development teams and partners ever since. My focus today is **AI value creation**: choosing the use cases that move net sales and EBITDA, building the product and delivery model around them, and designing controls in from day one instead of bolting them on afterwards.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-George%20Papadongonas-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgepapadongonas/)
+[![Website](https://img.shields.io/badge/Website-georgepapadongonas.com-111827?logo=googlechrome&logoColor=white)](https://georgepapadongonas.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-George%20Papadongonas-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgepapadongonas/)
 
 **Track record**
 
